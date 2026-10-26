@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Personal
+conf_email.html
+addresses_prefeitura.csv
